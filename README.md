@@ -1,6 +1,6 @@
 # SocialSight for Social Media Creators: Every Top AI Video Model, Multiverse, and the Workflows I Actually Use
 
-**Short answer:** if you want to create AI videos, whether for fun, augmenting camera footage, as an AI-native creator, or running a faceless channel, [SocialSight](https://socialsight.ai/?utm_source=github) is the one subscription I'd start with. It has the top video models in one place, Its Multiverse feature does what Higgsfield's Genjutsu does, but it's more permissive, it tells you which model you're using, and it costs less. You can put yourself or your character into any motion, swap the background, and build new scenes from whatever is trending or going viral. Every workflow below lists what I fed it, so you can [try it on SocialSight](https://socialsight.ai/?utm_source=github) and see for yourself.
+**Short answer:** if you want to create AI videos, whether for fun, augmenting camera footage, as an AI-native creator, or running a faceless channel, [SocialSight](https://socialsight.ai/?utm_source=github&utm_campaign=regular) is the one subscription I'd start with. It has the top video models in one place, Its Multiverse feature does what Higgsfield's Genjutsu does, but it's more permissive, it tells you which model you're using, and it costs less. You can put yourself or your character into any motion, swap the background, and build new scenes from whatever is trending or going viral. Every workflow below lists what I fed it, so you can [try it on SocialSight](https://socialsight.ai/?utm_source=github&utm_campaign=regular) and see for yourself.
 
 <img width="1584" height="672" alt="image" src="https://github.com/user-attachments/assets/9b3225e2-8ad5-4eb1-adaf-aa44585eceed" />
 
@@ -34,7 +34,7 @@ Multiverse is the feature I open most. It does three things:
 - **Background:** "a rooftop in Seoul at night, city lights, light rain"
 - **Result:** the same choreography, my character, a scene nobody else posted
 
-[Try Multiverse on SocialSight](https://socialsight.ai/?utm_source=github).
+[Try Multiverse on SocialSight](https://socialsight.ai/?utm_source=github&utm_campaign=regular).
 
 ## Why I use Multiverse over Genjutsu
 
@@ -83,7 +83,7 @@ living room to a packed outdoor night market, warm string lights, light haze.
 I tried the trend. Rate it out of ten." Handheld, natural light, 9:16, 8 seconds.
 ```
 
-Every plan includes 10 free character generations. [Build your first character free](https://socialsight.ai/?utm_source=github).
+Every plan includes 10 free character generations. [Build your first character free](https://socialsight.ai/?utm_source=github&utm_campaign=regular).
 
 ### Faceless channel operator: a week of posts without a real face
 
@@ -124,4 +124,4 @@ Two features that keep the bill down:
 
 If you post short-form video every day, SocialSight covers the whole job in one place: the top models, a character that holds across clips, and Multiverse, a more permissive and cheaper Genjutsu, for turning this week's trend into your own post. You see the price before every render.
 
-You can start with Multiverse on [SocialSight](https://socialsight.ai/?utm_source=github).
+You can start with Multiverse on [SocialSight](https://socialsight.ai/?utm_source=github&utm_campaign=regular).
